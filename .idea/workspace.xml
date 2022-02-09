@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ae917c7-0f28-43dc-a2fb-34d8e81699ee" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myGitJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myGitJavaProject.iml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Personne.java" afterDir="false" />
+>>>>>>> 7aedd895fc9e4c7cdf95804c11b43b2e13e9f1f6
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24poPhvmWJBToDWw3TfY9PCa98P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,8 +60,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644336866854</updated>
+<<<<<<< HEAD
       <workItem from="1644336870582" duration="354000" />
       <workItem from="1644406063761" duration="1144000" />
+=======
+      <workItem from="1644336870582" duration="1985000" />
+      <workItem from="1644397674440" duration="1988000" />
+>>>>>>> 7aedd895fc9e4c7cdf95804c11b43b2e13e9f1f6
     </task>
     <servers />
   </component>
@@ -67,7 +78,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+>>>>>>> 7aedd895fc9e4c7cdf95804c11b43b2e13e9f1f6
           </value>
         </entry>
       </map>

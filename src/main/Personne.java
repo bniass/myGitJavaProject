@@ -28,4 +28,13 @@ public class Personne {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public Personne(int id, String prenom, int age) {
+        this.id = id;
+        this.prenom = prenom;
+        this.age = age;
+    }
+
+    public Personne() {
+    }
 }
